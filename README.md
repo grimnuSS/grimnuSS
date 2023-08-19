@@ -1,5 +1,5 @@
 <h1 align="center">Selam Ben Ömer, 👋</h1>
-<h3 align="left">Hayalleri Büyük Kendisi Junior, Web Developer</h3>
+<h3 align="center">Hayalleri Büyük Kendisi Junior, Web Developer</h3>
 
 - 🔭 Şuanda Çalıştığım Yer **Freelance**
 
