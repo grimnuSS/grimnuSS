@@ -13,7 +13,6 @@
 
 <h3 align="center">Sosyal Medayada Ben:</h3>
 <p align="center">
-<a href="https://twitter.com/grimnuss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="grimnuss" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omerkaymak23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omerkaymak23" height="30" width="40" /></a>
 <a href="https://instagram.com/omer.kaymakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omer.kaymakk" height="30" width="40" /></a>
 </p>
