@@ -5,7 +5,7 @@
 
 - 🌱 Şu Dilleri ve Frameworkleri Öğrenmeye Çalışıyorum; **Flutter, Java, Laravel, Node.js**
 
-- 👨‍💻 Portfolyo Ve Kişisel Websitem [https://omerkaymak.site](https://omerkaymak.site)
+- 👨‍💻 Portfolyo Ve Kişisel Websitem [https://omerkaymak.site](https://kaymakdev.com.tr)
 
 - 📫 Bana Ulaşmak Için; **omerahmetkaymak@hotmail.com**
 
