@@ -3,7 +3,7 @@
 
 - 🔭 Şuanda Çalıştığım Yer **Freelance**
 
-- 🌱 Şu Dilleri ve Frameworkleri Öğrenmeye Çalışıyorum; **Flutter, Java, Laravel, Node.js**
+- 🌱 Şu Dilleri ve Frameworkler Ile Çalışıyorum; **Laravel, Vue.js, MySQL, CodeIgniter**
 
 - 👨‍💻 Portfolyo Ve Kişisel Websitem [https://omerkaymak.site](https://kaymakdev.com.tr)
 
