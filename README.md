@@ -3,9 +3,9 @@
 
 - 🔭 Şuanda Çalıştığım Yer **Freelance**
 
-- 🌱 Şu Dilleri ve Frameworkler Ile Çalışıyorum; **Laravel, Vue.js, MySQL, CodeIgniter**
+- 🌱 Şu Diller ve Frameworkler Ile Çalışıyorum; **Laravel, Vue.js, MySQL, CodeIgniter**
 
-- 👨‍💻 Portfolyo Ve Kişisel Websitem [https://omerkaymak.site](https://kaymakdev.com.tr)
+- 👨‍💻 Portfolyo Ve Kişisel Websitem [https://kaymakdev.com.tr](https://kaymakdev.com.tr)
 
 - 📫 Bana Ulaşmak Için; **omerahmetkaymak@hotmail.com**
 
