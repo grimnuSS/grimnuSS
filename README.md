@@ -5,11 +5,7 @@
 
 - 🌱 Şu Diller ve Frameworkler Ile Çalışıyorum; **Laravel, Vue.js, MySQL, CodeIgniter**
 
-- 👨‍💻 Portfolyo Ve Kişisel Websitem [https://kaymakdev.com.tr](https://kaymakdev.com.tr)
-
 - 📫 Bana Ulaşmak Için; **omerahmetkaymak@hotmail.com**
-
-- ⚡ Fun fact **Mizah, Yeni Yer Ve İnsan Tutkunu**
 
 <h3 align="center">Sosyal Medayada Ben:</h3>
 <p align="center">
@@ -18,14 +14,6 @@
 </p>
 
 <h3 align="center">Kullandığım Teknolojiler:</h3>
-<p align="center">
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a><br>
-</p>
 <p align="center">
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
